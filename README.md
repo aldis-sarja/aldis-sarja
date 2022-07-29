@@ -1,16 +1,19 @@
 ### Hi there 👋
+I am Aldis Sarja, a Software Developer.
 
-<!--
-**aldis-sarja/aldis-sarja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about science and technologies.
+I have learned a couple of programming languages - C, Python, Common Lisp, Racket, Java, and even Rust. But now, I am focused on PHP and backend Web development.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Currently, I am improving my knowledge (learning and working on):
+- PHP
+- Javascript and Typescript basics
+- Git
+- MySQL, SQLite
+- Laravel
+- HTTP & Web API
+- Unit Testing
+- Test Driven Development
+- MVC SOLID & design patterns (KISS, DRY)
+- Building REST API
+- HTML & CSS, VueJS basics
